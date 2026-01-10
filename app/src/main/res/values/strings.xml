@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Learning Jetpack Compose Application</string>
+    <string name="fruit">Orange</string>
 </resources>
